@@ -133,5 +133,5 @@ variable "azurerm_linux_virtual_machine_admin_password" {
 variable "azurerm_linux_virtual_machine_ssh_public_key" {
   description = "SSH public key for the Azure Linux Virtual Machine"
   type        = string
-  default     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4hcqq5tE75GJpv3EAZsYUkCPQQ1h0F31o3DIVt1pjwrMKxfblqsftEvzjtZk+Ahi0Ud2RrLvsTi4tpKZH7wMNf+ZEUDLFcONPsfxMJZp9oaKSVW14zWarvvsVOSHlxeVcczEnyDFbJk4F4Lm0wsLpTPgfJRlr/lqYHCW5g33+x2sztuJy6prnsXODFfD2nHQQc8/fC4MfYCsuyWZ8WQmIFm1h1ycKrvRZi8DsE2T2MWCbaWu5fjzYTmLNHrMOj8nWErR5YQCpjyHxm96j+6+r7dgyJroNPE/1mFL5W75cfsCeg2mzi3XVeV+F2wxUl3r38rhVt7KvBPdA7hjSvM8o1RFXRJnjLAQYYkT09tuQyziyz+V722ysges2WWaViV4s+YWDCAhZ4v5N9lai3No1n4MEKXqW79f4/SzqPmecbFl/B8hrkRUH3uw0JpT1ISsHKIekPMkaay4bLFuSeS39MdGoYi9twXKQSk+Zdz4J2WcolzyYSmGwsbRtbJ8Swg1c02KxEx37/cBLOiPteJjQ3olg+p6kQ9sxezVqXJUno4thV1++RfaKnOtoUZyG3tHNozRybf574t1HtMCjfCBDmFpgWTvP/yLeiF4mi3KUoyY559EMU7WVlsXfDD4JmYnZLm6+chb5cs9inSuo6LG9FjSWLQMxdPQkkyfuwwFpzQ== aakash.shah@simform.dom@SF-CPU-0168"
+  default     = "ssh-rsa xxx"
 }
